@@ -1,34 +1,34 @@
-banana           (bottechvaci)
-boomer           (bobhyper)
-charlie          (tipsyclect)
-computer         (namefreezing)
-corvette         (eliteextraintcat)
-creamcups        (lynnaps)
-dakota           (2hoteditor)
-dragon           (struping)
-eremic           (boosherha)
-hagbut           (louthnso)
-hockey           (softovok)
-hunter           (hipurcedree)
-yankees          (idealworman)
-merlin           (culubson)
-mustang          (prothenorn)
-pass             (dunawitec)
-pastern          (tiltheb)
-peanut           (technof)
-phoenix          (cacklynet)
-scooter          (bartercon)
-shadow           (guitaristjaden)
-stillwater       (aimetrans)
-thunder          (tasticsupreme)
-Demagogism       (teeratec)
-Interlap         (rightsubl)
-Pagina           (superti)
-jewellike3       (markatoint)
-undecipher3      (babestahinlove)
-faucre8          (forbonatum)
-busway.          (apenguinlead)
-Simulacra3       (chiricsen)
-Veliferous7      (prodott)
-Gladys4          (twistwalkea
-Foreuse0         (hipspork)
+banana:bottechvaci
+boomer:bobhyper
+charlie:tipsyclect
+computer:namefreezing
+corvette:eliteextraintcat
+creamcups:lynnaps
+dakota:2hoteditor
+dragon:struping
+eremic:boosherha
+hagbut:louthnso
+hockey:softovok
+hunter:hipurcedree
+yankees:idealworman
+merlin:culubson
+mustang:prothenorn
+pass:dunawitec
+pastern:tiltheb
+peanut:technof
+phoenix:cacklynet
+scooter:bartercon
+shadow:guitaristjaden
+stillwater:aimetrans
+thunder:tasticsupreme
+Demagogism:teeratec
+Interlap:rightsubl
+Pagina:superti
+jewellike3:markatoint
+undecipher3:babestahinlove
+faucre8:forbonatum
+busway.:apenguinlead
+Simulacra3:chiricsen
+Veliferous7:prodott
+Gladys4:twistwalkea
+Foreuse0:hipspork
